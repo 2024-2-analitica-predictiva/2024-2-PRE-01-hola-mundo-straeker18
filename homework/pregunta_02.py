@@ -5,6 +5,7 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 # pylint: disable=import-outside-toplevel
 
 
+
 def pregunta_02():
     """
     Retorne el string "Hello cruel world!".
@@ -15,6 +16,7 @@ def pregunta_02():
     """
 
     return "Hello cruel world!"
+
 
 
 if __name__ == "__main__":
